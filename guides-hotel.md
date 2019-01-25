@@ -1,9 +1,3 @@
-# Guides
-
-[Air](guides-air.md) | [Hotel](guides-hotel.md) | [Car Rentals](guides-car.md) 
-
-------------
-
 ## Hotel
 
 ### Rate Types
