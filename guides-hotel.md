@@ -8,7 +8,7 @@ This API feature 2 different types of rates, merchant and closed user group (CUG
 
 Get familiar with the proper booking flow for your site and where to use our API data.
 
-[Booking Flows](guides-flow-hotel.md)
+[Booking Flows](/guides/hotel/flow)
 
 ### Launch Requirements
 
